@@ -5,6 +5,8 @@
 Highlight Symbols, Selections, Enclosing Parens and More
 ===================================================================
 
+[![Join the chat at https://gitter.im/hl-anything/hl-anything-emacs](https://badges.gitter.im/hl-anything/hl-anything-emacs.svg)](https://gitter.im/hl-anything/hl-anything-emacs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Highlight things at point, selections, enclosing parentheses with different colors. **Fix grumbling issue of highlights being overridden by** `hl-line-mode` **and** `global-hl-line-mode`.
 
 Demo
