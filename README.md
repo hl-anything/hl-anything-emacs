@@ -1,11 +1,10 @@
 [![MELPA](http://melpa.org/packages/hl-anything-badge.svg)](http://melpa.org/#/hl-anything)
 [![MELPA Stable](http://stable.melpa.org/packages/hl-anything-badge.svg)](http://stable.melpa.org/#/hl-anything)
 [![TRAVIS-CI](https://travis-ci.org/boyw165/hl-anything.svg?branch=master)](https://travis-ci.org/boyw165/hl-anything)
+[![Join the chat at https://gitter.im/hl-anything/hl-anything-emacs](https://badges.gitter.im/hl-anything/hl-anything-emacs.svg)](https://gitter.im/hl-anything/hl-anything-emacs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Highlight Symbols, Selections, Enclosing Parens and More
 ===================================================================
-
-[![Join the chat at https://gitter.im/hl-anything/hl-anything-emacs](https://badges.gitter.im/hl-anything/hl-anything-emacs.svg)](https://gitter.im/hl-anything/hl-anything-emacs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Highlight things at point, selections, enclosing parentheses with different colors. **Fix grumbling issue of highlights being overridden by** `hl-line-mode` **and** `global-hl-line-mode`.
 
